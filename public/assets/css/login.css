@@ -1,0 +1,12 @@
+body,#header{
+	background-color: #B05F3C;
+}
+
+
+#header{
+	border-bottom: 1px solid #B05F3C;
+}
+
+.panel{
+	border: 1px solid #7BC618;
+}
